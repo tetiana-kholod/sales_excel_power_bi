@@ -12,8 +12,9 @@ Based on a comprehensive dataset from **five csv files, this project provides an
 You can find the dashboard here: [SALES ANALYSIS DASHBOARD]( https://github.com/tetiana-kholod/sales_excel_power_bi/blob/main/Sales%20Analysis%20Dashboard.pbix)
 ### Skills Showcased
 
-This project was a journey through key Power BI features. Here’s a look at what is mastered.
-**Data Transformation:** Cleaned, shaped, and prepared the raw data for analysis by changing data types, creating new columns. 
+This project was a journey through key Power BI features. Here’s a look at what is mastered.  
+
+- **Data Transformation:** Cleaned, shaped, and prepared the raw data for analysis by changing data types, creating new columns. 
 - **KPI Indicators & Tables:** Using **Cards** to display key product metrics and **Tables** to provide granular data.
 -	**Implicit Measures:** Formulated Measures to derive key insights like **Average Sales per Order**.
 -	**Core charts:** Utilezed  **Bar, Pie, as well Line and Stuck Column Charts.
